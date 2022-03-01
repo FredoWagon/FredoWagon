@@ -2,6 +2,14 @@
 
 ---
 
+As a freelance developer, I support my clients in developing innovative solutions.
+
+I work with small and large businesses to create unique digital experiences. I love what I do and believe in building partnerships based on trust, honesty and a thirst to create amazing things together.
+
+Currently I focus on front end development with tools like react.js and next.js.
+
+---
+
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="Javascript" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="Typescript" alt="Typescript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" title="HTML" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" title="Ruby" alt="Ruby Logo" width="50" height="50"/> 
