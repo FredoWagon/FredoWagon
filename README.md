@@ -1,4 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Frédéric Legrand!
+<a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-legrand-0aa547175/">
+  <img align="left" alt="Fred's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ---
 
